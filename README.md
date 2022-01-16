@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Faizan dange.
-- 👀 I’m interested in Web developing and Embedded language.
+- 👀 I’m interested in Web Developing and Softwarw Developing
 - 🌱 I’m currently learning java , javascript, python
 - 💞️ I’m looking to collaborate on company
 - 📫 How to reach me faizandange123@gmail.com
